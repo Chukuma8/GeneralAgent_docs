@@ -31,7 +31,8 @@ Third Person Template にはマップ画像に相当するものが存在しな�
 
 エディタ画面左上の設定で、「並行投影」を「上」、「表示モード」を「ライティングなし」を選択し、エリア全体が画面に収まるように拡大/縮小してからスクリーンショットを撮りましょう。
 こちらの画像を使っても問題ございません。
-![ThirdPersonMap.png](..%2F..%2F..%2FOneDrive%2F%89%E6%91%9C%2FThirdPersonMap.png)
+
+![ThirdPersonMap.png](.images/ThirdPersonMap.png)
 
 用意した画像のファイル名は、ビルドしたゲームバイナリに用いたレベル名と同名にしてください。
 今回は`ThirdPersonMap` となります。
